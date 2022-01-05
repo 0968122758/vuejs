@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    HelloWorld
+    Test
   </div>
 </template>
 
@@ -11,4 +11,7 @@ export default {
 }
 </script>
 <style scoped>
+.hello{
+    color: red;
+}
 </style>
